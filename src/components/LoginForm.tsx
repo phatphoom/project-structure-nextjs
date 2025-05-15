@@ -1,8 +1,9 @@
-import InputForm from "@/materials/InputForm";
-import TextLink from "@/materials/TextLink";
-import ButtonForm from "@/materials/ButtonForm";
+// import InputForm from "@/materials/InputForm";
+// import TextLink from "@/materials/TextLink";
+// import ButtonForm from "@/materials/ButtonForm";
+// import Divider from "@/materials/Divider";
+import { InputForm, TextLink, ButtonForm, Divider } from "@/materials";
 import React from "react";
-import Divider from "@/materials/Divider";
 function LoginForm() {
   return (
     <div className="border w-100 h-100">
